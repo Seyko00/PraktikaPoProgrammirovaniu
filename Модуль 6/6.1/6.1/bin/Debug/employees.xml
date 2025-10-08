@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Employees">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Position" type="xs:string" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="BirthDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Salary" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Employees" />
+        <xs:field xpath="Id" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Employees>
+    <Id>1</Id>
+    <Name>Логичнов Даниил Юрьевич</Name>
+    <Position>Главная охрана лоутаба</Position>
+    <Department>Шорт</Department>
+    <BirthDate>2008-03-05T00:00:00+03:00</BirthDate>
+    <Salary>300</Salary>
+  </Employees>
+  <Employees>
+    <Id>2</Id>
+    <Name>Казаченко Никита Сергеевич</Name>
+    <Position>Охрана лоутаба</Position>
+    <Department>Лонг</Department>
+    <BirthDate>2007-10-02T00:00:00+04:00</BirthDate>
+    <Salary>400</Salary>
+  </Employees>
+  <Employees>
+    <Id>3</Id>
+    <Name>Квятковский Владислав Дмитриевич</Name>
+    <Position>Ну вроде чет делает, смоки кидает а так тоже лоутаб</Position>
+    <Department>Мид, Б опора</Department>
+    <BirthDate>2007-12-27T00:00:00+03:00</BirthDate>
+    <Salary>399.00</Salary>
+  </Employees>
+</NewDataSet>
