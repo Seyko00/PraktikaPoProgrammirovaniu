@@ -1,0 +1,31 @@
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\bin\Debug\Задание 1.exe.config
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\bin\Debug\Задание 1.exe
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\bin\Debug\Задание 1.pdb
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\MainWindow.g.cs
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\App.g.cs
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1_MarkupCompile.cache
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1_MarkupCompile.lref
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\MainWindow.baml
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.g.resources
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.exe
+D:\лабы\Практика по КПиЯП\Модуль 3-\Задания\Модуль 3\Задание 1\obj\Debug\Задание 1.pdb
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.exe.config
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\App.g.cs
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1_MarkupCompile.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1_MarkupCompile.lref
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\MainWindow.baml
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.g.resources
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\Skele\OneDrive\Desktop\Модуль 3\Задание 1\obj\Debug\Задание 1.pdb
