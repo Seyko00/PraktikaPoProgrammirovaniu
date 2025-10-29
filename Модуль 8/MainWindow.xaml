@@ -1,0 +1,42 @@
+﻿<Window x:Class="InteractiveMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gmap="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+        Title="Интерактивная карта" Height="650" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Левое меню: поиск и список мест -->
+        <StackPanel Grid.Column="0" Margin="8">
+            <TextBlock FontSize="18" FontWeight="Bold" Text="Места" Margin="0,0,0,8"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,8">
+                <TextBox x:Name="SearchBox" Width="200" />
+                <Button Content="Найти" Margin="6,0,0,0" Click="SearchButton_Click"/>
+            </StackPanel>
+            <ListBox x:Name="PlacesList" DisplayMemberPath="Name" Height="480" SelectionChanged="PlacesList_SelectionChanged"/>
+            <Button Content="Загрузить маркеры" Margin="0,8,0,0" Click="LoadMarkersButton_Click"/>
+            <Button Content="Удалить выбранную метку" Margin="0,5,0,10" Click="DeleteSelectedPlace_Click"/>
+
+        </StackPanel>
+
+        <!-- Карта -->
+        <Grid Grid.Column="1">
+            <gmap:GMapControl x:Name="MainMap" />
+            <!-- Простое всплывающее окно (Popup) для информации о месте -->
+            <Popup x:Name="InfoPopup" Placement="MousePoint" StaysOpen="False">
+                <Border Background="White" BorderBrush="Gray" BorderThickness="1" Padding="8" CornerRadius="6" Width="260">
+                    <StackPanel>
+                        <TextBlock x:Name="PopupTitle" FontWeight="Bold" FontSize="14"/>
+                        <TextBlock x:Name="PopupDescription" TextWrapping="Wrap" Margin="0,6,0,0"/>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,8,0,0">
+                            <Button Content="Закрыть" Click="ClosePopup_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </Popup>
+        </Grid>
+    </Grid>
+</Window>

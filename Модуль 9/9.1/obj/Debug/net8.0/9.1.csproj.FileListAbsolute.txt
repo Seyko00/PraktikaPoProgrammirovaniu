@@ -1,0 +1,14 @@
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\bin\Debug\net8.0\9.1.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\bin\Debug\net8.0\9.1.deps.json
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\bin\Debug\net8.0\9.1.runtimeconfig.json
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\bin\Debug\net8.0\9.1.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\bin\Debug\net8.0\9.1.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.GeneratedMSBuildEditorConfig.editorconfig
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.AssemblyInfoInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.AssemblyInfo.cs
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.csproj.CoreCompileInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\refint\9.1.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\9.1.genruntimeconfig.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.9\Progi\9.1\9.1\obj\Debug\net8.0\ref\9.1.dll
